@@ -1,4 +1,4 @@
-#  a Responsive Website 
-![Sushi](https://i.ibb.co/dBxww2c/Sushi.png)
+#  A Responsive Website 
+
 
 
